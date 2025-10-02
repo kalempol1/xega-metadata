@@ -1,0 +1,11 @@
+{
+  "name": "XEGA",
+  "symbol": "XEGA",
+  "description": "XEGA — Where Memes meet AI. A zero-tax, community-powered Solana token combining humor and artificial intelligence to fuel the next generation of meme coins 🚀",
+  "image": "https://github.com/kalempol1/xega-metadata/blob/main/xega.png",
+  "extensions": {
+    "website": "https://xega-coin.com",
+    "twitter": "https://twitter.com/xegacoin",
+    "telegram": "https://t.me/xegacoin"
+  }
+}
